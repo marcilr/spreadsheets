@@ -1,0 +1,6 @@
+links.txt
+Created Fri Aug  2 07:37:31 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Spreadsheet related links
