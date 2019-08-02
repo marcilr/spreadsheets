@@ -4,3 +4,13 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Spreadsheet related links
+
+
+Links
+=====
+Command Line
+By Gary Sims – Posted on Jun 5, 2014 in Linux
+Notes on spreadsheet calculator” or “sc.” 
+Debian stretch 9.9 package:
+  sc - Text-based spreadsheet with VI-like keybindings
+https://www.maketecheasier.com/linux-command-line-spreadsheets/
