@@ -8,6 +8,12 @@ Spreadsheet related links
 
 Links
 =====
+Access Google Spreadsheet directly in bash and in R
+January 31, 2014
+By Xianjun Dong
+NOTE: Have no used Google Spreadsheet yet (Aug. 2, 2019(
+https://www.r-bloggers.com/access-google-spreadsheet-directly-in-bash-and-in-r/
+
 Command Line
 By Gary Sims – Posted on Jun 5, 2014 in Linux
 Notes on spreadsheet calculator” or “sc.” 
